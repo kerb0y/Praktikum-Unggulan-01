@@ -1,4 +1,4 @@
-# **Praktikum Unggulan 0102**
+# **Praktikum Unggulan 01**
 Repository ini bertujuan untuk menyimpan semua materi dan proyek praktikum untuk Praktikum Unggulan Tingkat 1, Semester 2.
 
 ## **Deskripsi**
