@@ -2,7 +2,7 @@
 Repository ini bertujuan untuk menyimpan semua materi dan proyek praktikum untuk Praktikum Unggulan Tingkat 1, Semester 2.
 
 ## **Deskripsi**
-Praktikum Unggulan 0102 berfokus pada pengenalan dan penerapan teknologi serta kecerdasan artifisial. Melalui praktikum ini, siswa diharapkan dapat memahami konsep-konsep dasar serta aplikasi praktis dalam bidang tersebut.
+Praktikum Unggulan 01 berfokus pada pengenalan dan penerapan teknologi serta kecerdasan artifisial. Melalui praktikum ini, siswa diharapkan dapat memahami konsep-konsep dasar serta aplikasi praktis dalam bidang tersebut.
 
 ## **Moda Praktikum**
 Praktikum ini diselenggarakan dalam dua moda:
